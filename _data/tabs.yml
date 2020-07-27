@@ -1,0 +1,40 @@
+#  The tab data.
+#  v2.1
+#  https://github.com/cotes2020/jekyll-theme-chirpy
+#  © 2020 Cotes Chung
+#  MIT Licensed
+
+
+-
+  name: Blog
+  icon: "fas fa-home"
+-
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
+-
+  name: "Etiquetes"
+  icon: "fas fa-tags"
+  path: tabs
+  url: tags
+-
+  name: "Entrades"
+  path: tabs
+  url: archives
+  icon: "fas fa-archive"
+-
+  name: "Xerrades"
+  icon: "fas fa-comment"
+  path: tabs
+  url: xerrades
+-
+  name: "Sobre el blog"
+  icon: "fas fa-info"
+  path: tabs
+  url: about
+-
+  name: "Contacte"
+  icon: "fas fa-at"
+  path: tabs
+  url: contacte
