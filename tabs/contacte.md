@@ -10,7 +10,7 @@ title: Contacte
 
 
 El blog és un projecte sense ànim de lucre i a disposició dels lectors. Per contactar amb nosaltres ho pots fer a través de les següents vies: 
-* **Email**: investigacio-online@protonmail.com
+* **Email**: investigacio_online@protonmail.com
 
 Intentarem respondre com més aviat millor. Envia'ns qualsevol inquietud:
 * Dubtes generals o específics
