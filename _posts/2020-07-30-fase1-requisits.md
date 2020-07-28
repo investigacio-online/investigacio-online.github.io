@@ -18,7 +18,7 @@ Has de definir el següent:
 
 Una recomanació és que una vegada hagis definit l'objectiu principal, facis una investigació ràpida i preliminar per identificar objectius secundaris que es puguin incloure com a requisit. Fer aquesta investigació preliminar és molt últil, ja que si no es fa és possible que et capfiquis en aconseguir un objectiu que només es podria aconseguir a través d'objectius secundaris que no has identificat.
 
-Per últim, només caldrà que reparteixis les tasques amb els membres de l'equip. Existeixen programes i metodologies per facilitar la distribució i repartiment de tasques. Per exemple, [Cryptdad](https://privacitat-anonimat.github.io/posts/cryptpad/) té un document anomenat "Kanban" que et pot ser útil:
+Per últim, només caldrà que reparteixis les tasques amb els membres de l'equip. Existeixen programes i metodologies per facilitar la distribució i repartiment de tasques. Per exemple, [Cryptpad](https://privacitat-anonimat.github.io/posts/cryptpad/) té un document anomenat "Kanban" que et pot ser útil:
 
 ![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-30-fase1-requisits/tasques.png)
 
