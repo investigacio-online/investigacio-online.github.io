@@ -33,7 +33,7 @@ Té una barra superior, molt similar a la del Word, on pots escollir el format d
 
 ![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-08-05-cherrytree/cherry4.png)
 
-Pots crear nodes per apuntar el que vulguis. Per exemple, un anomenat "Investigació X" per apuntar tot el que fa referència amb els requisits inicials i estat de la investigació:
+Pots crear nodes per apuntar qualsevol cosa. Per exemple, un anomenat "Investigació X" per escriure tot el que fa referència amb els requisits inicials i estat de la investigació:
 
 ![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-08-05-cherrytree/cherry5.png)
 
@@ -108,7 +108,7 @@ Nota: substituir XXX per la versió que t'hagis descarregat
 
 ### Ubuntu
 Igual que amb Debian, pots instal·lar-ho de forma manual. Una alternativa més visual és utilitzar Ubuntu Software:
-1. Obrir l'aplicació de programari i actualitzacions
+1. Obrir l'aplicació de Ubuntu Software
 2. Anar a la pestanya "Other Software"
 3. Afegir el següent text:
 ```
