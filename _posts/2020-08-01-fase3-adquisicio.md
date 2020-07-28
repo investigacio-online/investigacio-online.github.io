@@ -12,7 +12,7 @@ Consisteix a obtenir i extreure informació de les fonts que s'han decidit a la 
 
 Has de tenir en compte que tenir un gran volum d'informació no és directament proporcional a un millor producte d'intel·ligència. A més a més, com més informació obtinguis més temps necessitaràs per processar-la i analitzar-la. Per tant, prioritza la qualitat abans que la quantitat.
 
-# Mètodes extracció
+# Mètodes d'extracció
 Hi ha diverses maneres d'extreure la informació que dependran completament en si al teu equip hi ha algun membre que tingui un perfil una mica més tècnic.
 
 El mètode que tothom sap utilitzar és el manual. Consisteix a anar extraient la informació manualment sense utilitzar cap eina automàtica. Si ho fas manualment és probable que inverteixis més temps a obtenir-la, però segur que tindràs menys falsos positius.
