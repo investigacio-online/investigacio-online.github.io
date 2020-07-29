@@ -3,7 +3,7 @@ title: CherryTree
 author: investigacio-online
 date: 2020-08-05
 categories: [Eines,Notes]
-tags: [notes,fase4,adquisició,fase4,processament,fase5,anàlisis,Windows,Linux,MacOS]
+tags: [notes,fase3,adquisició,fase4,processament,fase5,anàlisis,Windows,Linux,MacOS]
 ---
 
 CherryTree és un organitzador que utilitza un esquema jeràrquic que permet escriure text, afegir imatges, taules i enllaços. A més a més, permet exportar totes les notes en format PDF.
