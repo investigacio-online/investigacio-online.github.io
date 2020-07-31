@@ -1,7 +1,7 @@
 ---
 title: Fase 4 - Processament
 author: investigacio-online
-date: 2020-08-02
+date: 2020-07-26
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia,fase4,processament]
 ---
@@ -20,9 +20,9 @@ Si investigues empreses i persones, un mètode útil poder analitzar-les amb fac
 
 El format de la fitxa hauria de ser el que millor d'adaptés a les teves necessitats. Un exemple seria el següent:
 
-![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-08-02-fase4-processament/template2.png)
+![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-26-fase4-processament/template2.png)
 
-![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-08-02-fase4-processament/template3.png)
+![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-26-fase4-processament/template3.png)
 
 Bàsicament, hauria de ser un document per persona i/o empresa que contingués tota la informació obtinguda de les diverses fonts extretes durant la fase d'adquisició.
 

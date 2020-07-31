@@ -1,7 +1,7 @@
 ---
 title: Fase 6 - Intel·ligència
 author: investigacio-online
-date: 2020-08-04
+date: 2020-07-28
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia,fase6,intel·ligència]
 ---

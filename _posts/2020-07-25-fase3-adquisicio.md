@@ -1,7 +1,7 @@
 ---
 title: Fase 3 - Adquisició
 author: investigacio-online
-date: 2020-08-01
+date: 2020-07-25
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia,fase3,adquisició]
 ---

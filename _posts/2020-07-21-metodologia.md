@@ -1,7 +1,7 @@
 ---
 title: Metodologia
 author: investigacio-online
-date: 2020-07-28
+date: 2020-07-21
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia]
 ---
@@ -10,7 +10,7 @@ Per dur a terme una investigació organitzada i de qualitat recomanem utilitzar 
 
 La metodologia que proposem consta de 6 fases. No obstant això, has de tenir en compte que no és una metodologia cíclica. És a dir, que a mesura que tinguis més experiència, és molt possible que acabis repetint fases o fusionant-les.
 
-![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-28-metodologia/fases.png)
+![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-21-metodologia/fases.png)
 
 # Requisits
 La primera fase consisteix a definir els requisits que vols assolir al final de la investigació. És molt important definir-los correctament per evitar que l'objectiu sigui assequible.

@@ -1,7 +1,7 @@
 ---
 title: Fase 5 - Anàlisis
 author: investigacio-online
-date: 2020-08-03
+date: 2020-07-27
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia,fase5,anàlisis]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fase 1 - Requisits
 author: investigacio-online
-date: 2020-07-30
+date: 2020-07-23
 categories: [Conceptes,Metodologia]
 tags: [osint,metodologia,fase1,requisits]
 ---
@@ -20,6 +20,6 @@ Una recomanació és que una vegada hagis definit l'objectiu principal, facis un
 
 Per últim, només caldrà que reparteixis les tasques amb els membres de l'equip. Existeixen programes i metodologies per facilitar la distribució i repartiment de tasques. Per exemple, [Cryptpad](https://privacitat-anonimat.github.io/posts/cryptpad/) té un document anomenat "Kanban" que et pot ser útil:
 
-![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-30-fase1-requisits/tasques.png)
+![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-07-23-fase1-requisits/tasques.png)
 
 Podries fer un llistat de tasques i que cada membre esculli la tasca que vol fer i la col·loqui a la columna de "s'està fent". D'aquesta manera, tothom sabrà qui fa que i així no és repeteixen les tasques per equivocació.
