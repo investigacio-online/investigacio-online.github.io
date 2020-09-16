@@ -93,7 +93,7 @@ La manera més fàcil és indicar només l'URL:
 python3 cronograma.py --url URL
 ```
 
-Com pots veure, el cronograma està molt ple, ja que hi ha anuncis des del 2005:
+Posant la URL [https://www.empresia.es/empresa/grifols/](https://www.empresia.es/empresa/grifols/) el cronograma està molt ple, ja que hi ha anuncis des del 2005:
 
 ![](https://raw.githubusercontent.com/investigacio-online/investigacio-online.github.io/master/img/2020-09-14-cronograma/crono3.png)
 
